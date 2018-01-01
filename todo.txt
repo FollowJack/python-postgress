@@ -1,0 +1,9 @@
+Get into DB
+
+
+URL: https://api.cryptowat.ch/markets/gdax/btcusd/ohlc
+data fields cryptowatch for 15m/1h/2h/4h/1d Table  //pairname = btcusd
+
+
+[pairname, market, close_time, open_price, high_price, low_price, close_price, volume ]
+
